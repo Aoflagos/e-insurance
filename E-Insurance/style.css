@@ -1,0 +1,89 @@
+header{
+    background-color: #0A1558;
+    min-height: 768px; 
+}
+
+.backgroundimg{
+    height: 768px;
+    width: 1158px;
+    position: absolute;
+    left: 581px;
+    top: 0;
+    mix-blend-mode: screen;
+       
+}
+.btn{
+    text-transform: capitalize;
+}
+
+.fm{
+    font-family: lato sans-serif;
+}
+.main-cop{
+    margin-top: calc(768px - 544px);
+}
+.btn .rad{
+    border-radius: 5px;
+} 
+/*section*/
+section{
+    background-color:  rgba(246, 248, 251, 1);
+}
+.section .btn{
+    position: relative;
+    top: 28px;
+}
+.design1{
+    width: 328px;
+    height: 328px;
+    border-radius: 50%;
+    background-color:  #A0A4A8;
+    opacity: 0.1;
+    position: relative;
+    justify-content: flex-end;
+}
+        
+
+
+.section{
+    padding-top: 190px;
+    position: relative;
+    z-index: 2;
+}
+.fontss{
+    Font-family: Inter sans-serif;
+    Font-style: Semi Bold;
+    font-weight: 600;
+    Font-size: 15px;
+    Line-height: 20px;
+   
+}
+.card{
+    width: 220px;
+    height: 165px;
+}
+/*.floatter{
+    height: 540px;
+    width: 540px;
+    border-radius: 50%;
+    background-color: rgba(22, 161, 160, 1);
+    opacity: 20%;
+}*/
+.float-in{
+    height: 500px;
+    width: 500px;
+    opacity: 0.2;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.books{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: -450px;
+    
+}
+.note{
+    position: absolute;
+    margin-left: -200px;
+    margin-top:250px;
+}
